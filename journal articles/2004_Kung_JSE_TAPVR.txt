@@ -1,0 +1,150 @@
+Total Anomalous Pulmonary Venous Return 
+Involving Drainage Above, Below, and To the 
+Heart: A Mixed Bag 
+CASE REPORT 
+J Am Soc Echocardiogr 2004;17:1084-5. 
+0894-7317/$30.00 
+Copyright 2004 by the American Society of Echocardiography. 
+Grace C. Kung, MD, Hui Gao, RDCS, Pierre C. Wong, MD, Mark S. Sklansky, MD, 
+Merujan Y. Uzunyan, MD, and John C. Wood, MD, Los Angeles, California 
+Total anomalous pulmonary venous return 
+(TAPVR) is defined as abnormal drainage of the 
+pulmonary venous blood to the systemic venous 
+system. TAPVR can be classified by the location of 
+the abnormal drainage as being supracardiac (type 
+I), cardiac (type II), infracardiac (type III), or mixed 
+(type IV).1 Most of these connections involve a 
+common pulmonary venous confluence that then 
+drains to the specified site. Accurate definition of 
+the sites of drainage is important in determining the 
+appropriate surgical approach. Two-dimensional 
+echocardiography with color flow Doppler has been 
+shown to accurately establish the diagnosis.2 We 
+present an interesting case of type IV mixed TAPVR 
+diagnosed by echocardiography that involves all 3 
+locations (types I-III) with no common pulmonary 
+venous confluence and no other major associated 
+cardiac abnormalities. To our knowledge, this has 
+not been previously described. 
+The patient was a neonate who underwent echocardiographic 
+evaluation for mild desaturations noted by pulse 
+oximetry. The echocardiogram revealed a moderately 
+dilated right ventricle with right-to-left shunting through a 
+secundum atrial septal defect. There was high suggestion 
+for TAPVR and further investigation revealed that the left 
+upper pulmonary vein drained by a vertical vein to the left 
+innominate vein (LIV) and the left lower pulmonary vein 
+drained directly into the coronary sinus (CS) (Figure 1). 
+The right-sided pulmonary veins drained by a descending 
+vertical vein adjacent to the right atrium (Figure 2,A), 
+coursing down toward the midline behind the atria and 
+From the Division of Cardiology, Children’s Hospital Los Angeles; 
+and Department of Pediatrics, Keck School of Medicine, 
+University of Southern California (G.C.K., P.C.W., M.S.S., 
+M.Y.U., J.C.W.). 
+Reprint requests: Grace Kung, MD, 4650 Sunset Blvd, MS No. 
+34, Children’s Hospital Los Angeles, Los Angeles, CA 90027 
+(E-mail: gkung@chla.usc.edu). 
+doi:10.1016/j.echo.2004.06.001 
+Figure 1 Two-dimensional transthoracic echocardiographic 
+image with color Doppler from modified parasternal 
+short-axis view showing red flow toward transducer in 
+left vertical vein (LVV), which drains left upper pulmonary 
+vein to innominate vein. Also shown is left lower pulmonary 
+vein (LLPV) draining to coronary sinus (CS). LA, Left 
+atrium. 
+through the diaphragm, eventually draining to the hepatic 
+system (Figure 2,B). Other than the atrial septal defect, the 
+remainder of the cardiac anatomy was normal. There was 
+mild flow turbulence in the CS and in the descending vein 
+below the diaphragm but no discrete obstruction. A 
+cardiac magnetic resonance imaging scan was obtained 
+that confirmed the various sites of drainage. The patient 
+was clinically stable without respiratory distress or evidence 
+of poor cardiac output. The patient remained 
+hemodynamically stable throughout the course of the 
+hospitalization and was presented for elective repair. 
+DISCUSSION 
+The incidence of TAPVR has been reported at 
+0.008% of live births, with an incidence of approximately 
+2.2% of patients with congenital heart disease.
+3 It is also commonly associated with other 
+cardiac abnormalities. Type I involves drainage to 
+the systemic venous system by a left-sided vertical 
+1084
+Journal of the American Society of Echocardiography 
+Volume 17 Number 10 
+Figure 2 Two-dimensional transthoracic echocardiographic images with color Doppler. A, Suprasternal 
+notch view showing descending vein (DV), which drains right pulmonary veins coursing away from 
+transducer inferiorly adjacent to right atrium (RA). B, Subcostal coronal view showing DV, which drains 
+right pulmonary veins coursing through liver and joining hepatic system (H). 
+vein (an embryologic remnant of the left cardinal 
+system) to the LIV or directly to the right superior 
+vena cava (RSVC). Type II involves drainage directly 
+into the heart usually by the CS or directly to the 
+right atrium. Type III involves drainage by a descending 
+vein coursing below the diaphragm and 
+joining the inferior vena cava, hepatic veins, or 
+portal system. This type commonly has obstruction 
+of the pulmonary venous return. Type IV is rare and 
+involves multiple sites of drainage. A common form 
+consists of the left upper pulmonary vein draining to 
+a vertical vein, which then drains to the LIV, and the 
+remainder of the pulmonary veins drain to the CS. 
+Delisle et al4 reported a distribution of type I (45%), 
+type II (26%), type III (24%), and type IV (5%). 
+Darling et al1 reported a distribution of type I (55%), 
+type II (30%), type III (13%), and type IV (2%). 
+Various types of mixed drainage to two different 
+sites have been reported. Delisle et al4 reported 5 
+cases of mixed drainage, 4 of which had veins 
+draining to the LIV and to another site such as the CS 
+or RSVC, and the remaining case drained to the 
+portal vein and to the RSVC. Imoto et al5 reported 11 
+cases of mixed drainage, most of which had a 
+solitary vein draining to the LIV or RSVC with the 
+remainder draining into a common confluence and 
+then connecting to the CS, RSVC, or below the 
+diaphragm. Cayre et al6 reported a case where the 
+right-sided veins drained to the CS and the left-sided 
+veins drained to the RSVC. 
+Our case is unusual in it involves a combination of 
+all 3 levels of drainage in one patient and also 
+illustrates the importance of defining all the sites of 
+possible drainage of the pulmonary veins in the 
+setting of TAPVR, as they can involve multiple 
+Kung et al 1085 
+levels. In this particular case, 2-dimensional echocardiography 
+with color flow Doppler clearly delineated 
+the various sites of drainage. However, in 
+some instances, details of pulmonary venous drainage 
+can be difficult to define by echocardiography. If 
+there is uncertainty about the drainage patterns, 
+magnetic resonance imaging can be used as an 
+adjunct, although this may require patient sedation 
+to obtain optimal images. 
+REFERENCES 
+1. Darling RC, Rothney WB, Craig JM. Total pulmonary venous 
+drainage into the right side of the heart; report of 17 autopsied 
+cases not associated with other major cardiovascular anomalies. 
+Lab Invest 1957;6:44-64. 
+2. Chin AJ, Sanders SP, Sherman F, Lang P, Norwood WI, 
+Castaneda AR. Accuracy of subcostal two-dimensional echocardiography 
+in prospective diagnosis of total anomalous pulmonary 
+venous connection. Am Heart J 1987;113:1153-9. 
+3. Ferencz C, Rubin JD, McCarter RJ, Brenner JI, Neill CA, Perry 
+LW, et al. Congenital heart disease: prevalence at live birth; the 
+Baltimore-Washington infant study. Am J Epidemiol 1985; 
+121:31-6. 
+4. Delisle G, Ando M, Calder AL, Zuberbuhler JR, Rochenmacher 
+S, Alday LE, et al. Total anomalous pulmonary venous 
+connection: report of 93 autopsied cases with emphasis on 
+diagnostic and surgical considerations. Am Heart J 1976;91: 
+99-122. 
+5. Imoto Y, Kado H, Asou T, Shiokawa Y, Tominaga R, Yasui H. 
+Mixed type of total anomalous pulmonary venous connection. 
+Ann Thorac Surg 1998;66:1394-7. 
+6. Cayre RO, Civetta JD, Roldan AO, Rousseau JJ, Knudson OA 
+Jr, Valdes-Cruz LM. Mixed total anomalous pulmonary venous 
+connection: case report with bilateral venous collectors. J Am 
+Soc Echocardiogr 2003;16:84-7.

@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>The fruits of our labor</title>
+<link rel="stylesheet" href="emx_nav_left.css" type="text/css">
+<script type="text/javascript">
+<!--
+var time = 3000;
+var numofitems = 7;
+
+//menu constructor
+function menu(allitems,thisitem,startstate){ 
+  callname= "gl"+thisitem;
+  divname="subglobal"+thisitem;  
+  this.numberofmenuitems = 7;
+  this.caller = document.getElementById(callname);
+  this.thediv = document.getElementById(divname);
+  this.thediv.style.visibility = startstate;
+}
+
+//menu methods
+function ehandler(event,theobj){
+  for (var i=1; i<= theobj.numberofmenuitems; i++){
+    var shutdiv =eval( "menuitem"+i+".thediv");
+    shutdiv.style.visibility="hidden";
+  }
+  theobj.thediv.style.visibility="visible";
+}
+				
+function closesubnav(event){
+  if ((event.clientY <48)||(event.clientY > 107)){
+    for (var i=1; i<= numofitems; i++){
+      var shutdiv =eval('menuitem'+i+'.thediv');
+      shutdiv.style.visibility='hidden';
+    }
+  }
+}
+// -->
+</script>
+</head>
+<body onmousemove="closesubnav(event);"> 
+<div class="skipLinks">skip to: <a href="#content">page content</a> | <a href="pageNav">links on this page</a> | <a href="#globalNav">site navigation</a> | <a href="#siteInfo">footer (site information)</a> </div>
+<!-- end masthead -->
+<div id="pagecell1"> 
+  <!--pagecell1--> 
+  <img alt="" src="tl_curve_white.gif" height="6" width="6" id="tl"> <img alt="" src="tr_curve_white.gif" height="6" width="6" id="tr"> 
+  <div id="breadCrumb">    </div> 
+  <div id="pageName"> 
+    <h2>Publications</h2> 
+     
+  </div> 
+  <div id="pageNav"> 
+    <div id="sectionLinks"> 
+      <a href="index.html">Home</a><a href="research.html">Research</a><a href="people.html">People</a><a href="#">Publications</a> <a href="contact.html">Contact</a> 
+    </div> 
+    <div class="relatedLinks"> 
+      <h3>&nbsp;</h3> 
+    </div> 
+    <div id="advert"> 
+       <img src="chla_logo.gif" alt="" width="150" height="107" /></div> 
+  </div> 
+  <div id="content"> 
+    <div class="feature"> 
+      <h3>Selected Journal Publications</h3>
+      <p>&nbsp;</p>
+      <h2>Transfusion Dependent Anemia and Iron Assessment by MRI</h2>
+      <p><a href="journal%20articles/2005_Wood_Blood_MRI%20R2%20R2s.pdf">Wood, J. C., C. Enriquez, et al. (2005). &quot;MRI R2 and R2* mapping accurately estimates hepatic iron concentration in transfusion-dependent thalassemia and sickle-cell disease patients.&quot; Blood.</a></p>
+      <p><a href="journal%20articles/2005_Wood_Circ_Cardiac%20iron%20(Gerbil).pdf">Wood, J. C., M. Otto-Duessel, et al. (2005). &quot;Cardiac iron determines cardiac T2*, T2, and T1 in the gerbil model of iron cardiomyopathy.&quot; Circulation 112(4): 535-43.</a></p>
+      <p><a href="journal%20articles/2004_Wood_Blood_Myocardial%20iron%20thal%20scd.pdf">Wood, J. C., J. M. Tyszka, et al. (2004). &quot;Myocardial iron loading in transfusion-dependent thalassemia and sickle cell disease.&quot; Blood 103(5): 1934-6.</a></p>
+      <p><a href="journal%20articles/2004_Wood_MRM_Liposomes.pdf">Wood, J. C., J. D. Fassler, et al. (2004). &quot;Mimicking liver iron overload using liposomal ferritin preparations.&quot; Magn Reson Med 51(3): 607-11.</a></p>
+      <p><a href="journal%20articles/2002_Batra_ASH_SCD%20Cardiac.pdf">Anjan S. Batra, R. J. A., Wing-yen Wong, John C. Wood, Linda S. Chan, Emily Ramicone, Mahmood Ebrahimi, Pierre C. Wong, (2002). &quot;Cardiac abnormalities in children with sickle cell anemia.&quot; American Journal of Hematology 70(4): 306-312.</a></p>
+      <p>&nbsp;</p>
+      <h2>CardiologyCongenital Heart Disease </h2>
+      <p><a href="journal%20articles/2003_Wood_JMRI_Phase%20Velocity.pdf">John C. Wood (2003). &quot;Characterization of interpolation effects in cine anatomic and phase-velocity images.&quot; Journal of Magnetic Resonance Imaging 18(2): 266-271.</a></p>
+      <p>Wood, J. C., G. Kopf, et al. (2000). &quot;Giant right coronary artery fistula in a neonate.&quot; Heart 84(2): 128.</p>
+      <p>Wood, J. C., M. Reyes-Mugica, et al. (2000). &quot;Vascular aneurysm producing divided right atrium in a patient with pulmonary atresia and intact ventricular septum.&quot; Cardiol Young 10(3): 281-5.</p>
+      <p>&nbsp;</p>
+      <h2>Other</h2>
+      <p>Ghugre, N. R., M. Martin, et al. (2003). &quot;Superiority of 3D wavelet-packet denoising in MR microscopy.&quot; Magn Reson Imaging 21(8): 913-21.</p>
+      <p><a href="journal%20articles/1999_Wood_MRM_Wavelets.pdf">John C. Wood, K. M. J. (1999). &quot;Wavelet packet denoising of magnetic resonance images: Importance of Rician noise at low SNR.&quot; Magnetic Resonance in Medicine 41(3): 631-635.</a></p>
+    </div> 
+    <div class="story">
+      <p>&nbsp;    </p>
+    </div> 
+    </div> 
+   <div id="siteInfo">  </div> 
+</div> 
+<!--end pagecell1--> 
+<br> 
+<script type="text/javascript">
+    <!--
+      var menuitem1 = new menu(7,1,"hidden");
+			var menuitem2 = new menu(7,2,"hidden");
+			var menuitem3 = new menu(7,3,"hidden");
+			var menuitem4 = new menu(7,4,"hidden");
+			var menuitem5 = new menu(7,5,"hidden");
+			var menuitem6 = new menu(7,6,"hidden");
+			var menuitem7 = new menu(7,7,"hidden");
+    // -->
+    </script> 
+</body>
+</html>
